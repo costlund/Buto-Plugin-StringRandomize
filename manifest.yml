@@ -1,7 +1,12 @@
-version: '1.0'
+version: 1.0.1
 history:
-  '1.0':
+  1.0.1:
+    date: '2023-04-27'
+    title: Manifest
+    description: 'Manifest clean up.'
+  1.0.0:
     date: '2019-06-01'
+    title: Manifest
     description: 'Manifest created.'
 plugin: {  }
 sys:
